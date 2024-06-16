@@ -21,3 +21,5 @@ Simply click on the chatbot icon to start a conversation. Type your query in the
 Whether you're seeking quick answers, detailed explanations, or personalized recommendations, our Chatbot is here to help. Experience the future of online interaction with our state-of-the-art chatbot, designed to make your life easier and more informed."
 
 This long description can be used on a webpage to explain the functionalities and benefits of your chatbot, attracting users by highlighting its interactive and intelligent features.
+# Screenshot
+![Screenshot (92)](https://github.com/BishwanathKumarPanda/Bot1/assets/138992024/2e147c85-eb66-46fb-8a70-2012eeeea52e)
